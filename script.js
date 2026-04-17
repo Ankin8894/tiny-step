@@ -11,7 +11,10 @@ const quotes =
         "Small steps are still steps.",
         "You don't have to do everything today.",
         "Breathe. Begin again.",
-        "Even today can be gentle."
+        "Even today can be gentle.",
+        "Every morning is a new page.",
+        "Even slow progress is progress.",
+        "You made it to another day."
       ];
 
 function randomQuote()
