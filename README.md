@@ -54,13 +54,6 @@ script.js
 - Open the generated link on your phone.
 - Add it to your home screen for an app-like experience.
 
-## 🔮 Possible Future Improvements
-- Text input instead of only buttons
-- More dynamic chatbot responses
-- Animations for messages
-- Dark mode
-- Local storage to save conversation history
-
 ## 👩‍💻 Author
 
 Created by Areeba Kazi
